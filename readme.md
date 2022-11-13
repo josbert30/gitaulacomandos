@@ -1,9 +1,9 @@
 comandos do bash
 
-pwd: ver onde estou no computador 
-touch: criar um arquivo vazio 
-cd: me mover para outro lugar/directorio 
-echo: comando para escrever algo no terminal ou em um arquivo 
+- pwd: ver onde estou no computador 
+- touch: criar um arquivo vazio 
+- cd: me mover para outro lugar/directorio 
+- echo: comando para escrever algo no terminal ou em um arquivo 
 
 # comandos git 
 
